@@ -1,4 +1,4 @@
-## Olá 👋 Eu sou Ana Clara 
+## OII meu nome e Ana Clara  <img src="https://i.pinimg.com/originals/ed/4f/ec/ed4fec2ec8edb40dbfd3a62a5850bbb9.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 80px; height: 70px; margin: 0px; width: 70px;" alt="Pixel Nintendods Sticker by KawaiiPixelArts - Find &amp; Share on GIPHY" jsname="kn3ccd">
 
 Sou Estudante , curso Desenvolvimento de Sistema, estou no Segundo ano do Ensino Medio 
 
