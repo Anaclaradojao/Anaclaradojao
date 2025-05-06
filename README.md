@@ -1,4 +1,4 @@
-## OII meu nome e Ana Clara <img src="https://img.lovepik.com/element/40142/4867.png_860.png" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 860px; height: 559px; margin: 0px; width: 559px;" alt="Borboleta De Flor Voadora PNG Imagens Gratuitas Para Download - Lovepik" jsname="kn3ccd">
+## 🦋 oi meu nome e Ana Clara <img src="https://www.imagensanimadas.com/data/media/291/borboleta-imagem-animada-0082.gif" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 300px; width: 300px; height: 80px; margin: 9.5px 0px;" alt="▷ Borboletas: Imagens Animadas, Gifs Animados &amp; Animações - 100% Gratuitas!" jsname="kn3ccd">
 Sou Estudante , curso Desenvolvimento de Sistema, estou no Segundo ano do Ensino Medio 
 
 - 🦋 .Estudando Python 
@@ -17,9 +17,8 @@ Sou Estudante , curso Desenvolvimento de Sistema, estou no Segundo ano do Ensino
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anaclaradojao&layout=compact&theme=tokyonight" />
 </p>
 
-## 🚀 Linguagens e Tecnologias
+## 🦋 Linguagens e Tecnologias
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
 
-
+<img src="https://cdn3.emoji.gg/emojis/5916-pythonbycodex.png" jsaction="" class="sFlh5c FyHeAf iPVvYb" style="max-width: 100px; height: 100px; margin: 0px; width: 100px;" alt="PythonbyCodex - Discord Emoji" jsname="kn3ccd">
